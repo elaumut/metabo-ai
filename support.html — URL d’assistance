@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Support – METABO.AI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      color: #1c1c1e;
+      background-color: #ffffff;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    p {
+      max-width: 700px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #6e6e73;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Support METABO.AI</h1>
+
+  <p>
+    METABO.AI est une application de bien-être et d’analyse personnelle
+    basée sur les données de santé disponibles sur votre appareil.
+  </p>
+
+  <p>
+    Pour toute question, problème technique ou demande d’assistance,
+    vous pouvez nous contacter à l’adresse suivante :
+  </p>
+
+  <p>
+    <strong>Email :</strong>
+    <a href="mailto:elaumut01@icloud.com">elaumut01@icloud.com</a>
+  </p>
+
+  <p>
+    METABO.AI ne fournit aucun diagnostic médical et ne remplace pas
+    l’avis d’un professionnel de santé.
+  </p>
+
+  <div class="footer">
+    © 2026 METABO.AI
+  </div>
+
+</body>
+</html>
