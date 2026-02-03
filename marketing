@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>METABO.AI</title>
+</head>
+<body>
+  <h1>METABO.AI</h1>
+  <p>Application de bien-être basée sur l’analyse des données Apple Santé
+  (sommeil, activité, récupération).</p>
+
+  <p>
+    METABO.AI fournit un état de récupération quotidien,
+    des explications simples et des recommandations de rythme.
+  </p>
+
+  <p>Aucune promesse médicale. Aucun diagnostic.</p>
+
+  <p>
+    <a href="https://elaumut.github.io/metabo-ai/privacy">
+      Politique de confidentialité
+    </a>
+  </p>
+</body>
+</html>
